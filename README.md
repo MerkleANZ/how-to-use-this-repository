@@ -5,5 +5,6 @@
 
 ## Using an existing package
 
+There are two options for utilising the packages in this repository
 
-   ### Option 1 - Package Cloning
+1. Package Cloning
